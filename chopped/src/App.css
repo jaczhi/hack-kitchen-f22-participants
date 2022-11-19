@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-left: 20px;
 }
 
 .App-logo {
@@ -35,4 +36,51 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+/*angela's changes*/
+body {
+  background: linear-gradient(30deg, lightskyblue, white);
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+.navbar li {
+  display: inline;
+  float: left;
+  text-decoration: none;
+  padding: 20px;
+  background-color: yellow;
+  border-radius: 10px;
+}
+
+.portions {
+  display: inline;
+}
+
+/*Jared's Changes*/
+
+.main-container {
+  position: relative;
+  text-align: center;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+/*Jacob*/
+.ul-top {
+  display:inline;
+  padding-right: 5px;
+}
+
+.li-top {
+  padding-right: 10px;
 }

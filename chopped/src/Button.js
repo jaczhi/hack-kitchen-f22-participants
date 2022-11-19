@@ -2,7 +2,7 @@ import './Button.css';
 
 function Button(props) {
     const handleClick = () => {
-        props.pressed = !props.pressed;
+        props.setPressed(!props.pressed);
     };
     return (
       <div>

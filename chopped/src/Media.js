@@ -1,4 +1,4 @@
-import "./media.css";
+import "./Media.css";
 
 const Media = (props) => {
     const _handleClick = () => {

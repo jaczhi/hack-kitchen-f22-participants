@@ -1,0 +1,8 @@
+.ExpandTextPad {
+    padding: 10px 10% 10px 10%
+}
+
+.ExpandTextHead {
+    cursor: pointer;
+    border-bottom: 2px solid black;
+}

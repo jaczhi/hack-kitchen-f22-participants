@@ -44,7 +44,6 @@ function App() {
       <Media source={"https://lh5.googleusercontent.com/_OaYG005JPDs/TVbgHYZt4zI/AAAAAAAACsU/s0rzmsFC6A0/s640/Molten%20Cake.jpg"} alt={"Lava Cake"}/>
       <h1>CHOCOLATE LAVA CAKE</h1>
       <h1>Ingredients</h1>
-      // 0: 1 whole egg, 1: 1 yolk egg, 2: 2 Tbsp white sugar, 3: 4 Tbsp butter, 4: 1 Tsp butter, 5: 0.333 cup chocolate, 6: 2 Tbsp flour
       <ul>
         <li>
           <div>{actualPortion[0] + " whole egg"}</div>

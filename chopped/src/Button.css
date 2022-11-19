@@ -1,0 +1,25 @@
+.rectangle {
+    border-radius: 20px;
+    border-width: 1px;
+    border-color: black;
+    width: 40px;
+    height: 40px;
+    background: lightblue;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    align-items: center;
+    line-height: 20px;
+    font-size: 40px;
+    box-shadow: 3px 3px 0 0 rgba(0,0,0,0.2);
+}
+
+.rectangle:hover {
+    background: yellow;
+    box-shadow: none;
+}
+  
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+        monospace;
+}
